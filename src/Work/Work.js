@@ -86,10 +86,10 @@ function Work() {
                <h1 class="title">Certifications</h1>
                <img src={so}></img><b className="about">c++</b><br></br>
                <b className="about1">Sololearn<br></br>Credential ID 24182996-1068</b><br></br>
-                 <button class="button is-dark">Member</button><br></br><br></br><br></br>
+                 <button class="button is-dark">View</button><br></br><br></br><br></br>
                  <img src={co}></img><b className="about">Machine learning</b><br></br>
                <b className="about1">Coursera<br></br>Credential ID 24182996-1060</b><br></br>
-                 <button class="button is-dark">Member</button><br></br>
+                 <button class="button is-dark">View</button><br></br>
              </div>
            </div>
          </section>
